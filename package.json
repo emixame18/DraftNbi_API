@@ -1,0 +1,23 @@
+{
+  "name": "draftnbi_api",
+  "version": "1.0.0",
+  "main": "Serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emixame18/DraftNbi_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emixame18/DraftNbi_API/issues"
+  },
+  "homepage": "https://github.com/emixame18/DraftNbi_API#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
